@@ -3,5 +3,5 @@
   "disableClosePurchase": false,
   "goMainAirPlay": false,
   "hidePhoneCast": false,
-  "hidePaint": true
+  "hidePaint": false
 }
