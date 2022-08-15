@@ -2,7 +2,6 @@
   "disableOnboarding": false,
   "disableClosePurchase": false,
   "goMainAirPlay": false,
-  "enableTrial": false,
   "hidePhoneCast": false,
   "hidePaint": false
 }
