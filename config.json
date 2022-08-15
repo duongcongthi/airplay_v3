@@ -1,7 +1,7 @@
 { 
   "disableOnboarding": false,
   "disableClosePurchase": false,
-  "goMainAirPlay": true,
+  "goMainAirPlay": false,
   "hidePhoneCast": false,
   "hidePaint": false
 }
